@@ -1,0 +1,10 @@
+C:\Users\iar740\source\repos\WebFormsCalculator\bin\Debug\WebFormsCalculator.exe.config
+C:\Users\iar740\source\repos\WebFormsCalculator\bin\Debug\WebFormsCalculator.exe
+C:\Users\iar740\source\repos\WebFormsCalculator\bin\Debug\WebFormsCalculator.pdb
+C:\Users\iar740\source\repos\WebFormsCalculator\obj\Debug\WebFormsCalculator.csproj.AssemblyReference.cache
+C:\Users\iar740\source\repos\WebFormsCalculator\obj\Debug\WebFormsCalculator.FrmCalculator.resources
+C:\Users\iar740\source\repos\WebFormsCalculator\obj\Debug\WebFormsCalculator.Properties.Resources.resources
+C:\Users\iar740\source\repos\WebFormsCalculator\obj\Debug\WebFormsCalculator.csproj.GenerateResource.cache
+C:\Users\iar740\source\repos\WebFormsCalculator\obj\Debug\WebFormsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\iar740\source\repos\WebFormsCalculator\obj\Debug\WebFormsCalculator.exe
+C:\Users\iar740\source\repos\WebFormsCalculator\obj\Debug\WebFormsCalculator.pdb
